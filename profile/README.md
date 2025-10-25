@@ -27,3 +27,9 @@ Of course, this is going to be updated frequently.
 Wait! One more thing.
 
 we follow legal rules. we eliminated potential ways to get into legal action by using PC VR methods.
+
+Did we ever make any other games for the Apple Vision Pro?
+
+## Yes!
+
+We made AVPCraft. It is a method to run Minecraft Java on the Vision Pro. And yes, you guessed it, we made it on the Google Cardboard too.
