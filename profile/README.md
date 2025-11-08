@@ -33,3 +33,14 @@ Did we ever make any other games for the Apple Vision Pro?
 ## Yes!
 
 We made AVPCraft. It is a method to run Minecraft Java on the Vision Pro. And yes, you guessed it, we made it on the Google Cardboard too.
+
+Did we ever run into potential copyright issues on any of our repositories?
+
+## Sadly, yes.
+
+Our aBoot repository may violate laws in the United States of America, such as DMCA and copyright laws. Therefore, we took the repository down until we either
+
+1. Find a workaround
+2. Find out if it is actually legal.
+
+Rest assured, **we never give up.**
