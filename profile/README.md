@@ -36,11 +36,6 @@ We made AVPCraft. It is a method to run Minecraft Java on the Vision Pro. And ye
 
 Did we ever run into potential copyright issues on any of our repositories?
 
-## Sadly, yes.
+## Yes, but we have just found a loophole!
 
-Our aBoot repository may violate laws in the United States of America, such as DMCA and copyright laws. Therefore, we took the repository down until we either
-
-1. Find a workaround
-2. Find out if it is actually legal.
-
-Rest assured, **we never give up.**
+Our project, aBoot was intended to run iOS on Android, which was not legal due to DMCA and Copyright, however to Apple's EULA, they never said that you cannot make the people build it from source code instead of just distributing it. Therefore, the legal path is for the people to build it on their own.
